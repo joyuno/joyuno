@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://github.com/joyuno.png?size=140" width="140" style="border-radius: 50%;" alt="Joyuno" />
-
 <h2>Yunho Jang · 장윤호</h2>
 
 <p>
@@ -51,10 +49,6 @@ AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로
 </a>
 
 <br/>
-
-<a href="https://gitanimals.org">
-  <img src="https://render.gitanimals.org/lines/joyuno?contribution-view=false" width="800" height="120" alt="joyuno's gitanimals line" />
-</a>
 
 </div>
 
