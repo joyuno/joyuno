@@ -31,15 +31,15 @@ AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로
 | Project | Status | Progress |
 |---|---|---:|
 | 📰 [ai-tech-digest](https://github.com/joyuno/ai-tech-digest) — daily AI 트렌드 자동 수집·요약·발행 | 🟢 Live | ![100%](https://geps.dev/progress/90) |
-| 📝 [Dev Blog](https://joyuno.github.io) — 매일 자동 발행되는 회고 일지 | 🟢 Live | ![90%](https://geps.dev/progress/90) |
+| 📝 [Dev Blog](https://joyuno.github.io) — 매일 자동 발행되는 회고 일지와 개발 블로그 | 🟢 Live | ![90%](https://geps.dev/progress/90) |
 | 🔒 hermes_with_claude_code — Hermes Agent sidecar + MCP peer architecture (Fable 5) | 🟡 Active | ![50%](https://geps.dev/progress/50) |
 | 🔒 home_assistant — Voice PE → Home Assistant → Claude Code 음성 명령 파이프라인 | 🟡 Active | ![50%](https://geps.dev/progress/50) |
-| 🎮 [studyandgame-godot](https://github.com/joyuno/studyandgame-godot) — 방치형 학습 게임 Godot 4 포팅 | 🟡 Active | ![60%](https://geps.dev/progress/60) |
-| 📚 [workbook](https://github.com/joyuno/workbook) — Claude Code Plugin · 학습자료 → YAML 퀴즈팩 | 🟡 Active | ![60%](https://geps.dev/progress/60) |
+| 🎮 [studyandgame-godot](https://github.com/joyuno/studyandgame-godot) — 나만의 문제집으로 공부하며 게임하자 | 🟡 Active | ![60%](https://geps.dev/progress/60) |
+| 📚 [workbook](https://github.com/joyuno/workbook) — Claude Code Plugin · 학습자료 → YAML 나만의 문제집 | 🟡 Active | ![60%](https://geps.dev/progress/60) |
 | 🌊 [riff](https://github.com/joyuno/riff) — AI-Native Project Loop · Claude Code Plugin | 🟡 Beta | ![60%](https://geps.dev/progress/60) |
-| 🔒 tr-box — 회사 모노레포 fork · 동기화 유지 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🔒 tr-box — 로그프레소 연동 소명처리시스템 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
 | 🔒 omnitrace — Observability Platform (RUM & APM) | 🟡 Active | ![70%](https://geps.dev/progress/70) |
-| 🔒 saju-oyeon — 사주 소개팅 앱 「연분(緣分)」 · FastAPI + Flutter | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🔒 saju-oyeon — 사주 소개팅 앱 「오연(五缘)」 · FastAPI + Flutter | 🟡 Active | ![80%](https://geps.dev/progress/80) |
 
 ### 🏁 완료
 | Project | |
