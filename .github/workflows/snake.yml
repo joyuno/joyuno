@@ -1,0 +1,35 @@
+name: Generate Contribution Snake
+
+# 매일 한 번 + main 에 push 시 + 수동 실행 시 contribution grid 를 먹는 스네이크 SVG 를 생성
+# 결과는 'output' 브랜치에 commit 되고, README 가 raw URL 로 참조한다.
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 매일 KST 23시 (UTC 14시)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: joyuno
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
