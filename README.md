@@ -90,3 +90,5 @@ AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로
 - ✏️ **Dev Blog** — https://joyuno.github.io/
 
 <sub>🐱 매일 23:55 KST · AI 회고 일지 자동 발행 · 일요일 23:00 KST · weekly AI/ML 논문 다이제스트</sub>
+
+<!-- last refresh: 2026-06-15T06:03:10Z -->
