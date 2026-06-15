@@ -30,7 +30,7 @@
 
 | Project | Status | Progress |
 |---|---|---:|
-| 📰 [ai-tech-digest](https://github.com/joyuno/ai-tech-digest) — daily AI 트렌드 자동 수집·요약·발행 | 🟢 Live | ![100%](https://geps.dev/progress/90) |
+| 📰 [ai-tech-digest](https://github.com/joyuno/ai-tech-digest) — daily AI 트렌드 자동 수집·요약·발행 | 🟢 Live | ![100%](https://geps.dev/progress/100) |
 | 📝 [Dev Blog](https://joyuno.github.io) — 매일 자동 발행되는 회고 일지와 개발 블로그 | 🟢 Live | ![90%](https://geps.dev/progress/90) |
 | 🔒 hermes_with_claude_code — Hermes Agent sidecar + MCP peer architecture (Fable 5) | 🟡 Active | ![50%](https://geps.dev/progress/50) |
 | 🔒 home_assistant — Voice PE → Home Assistant → Claude Code 음성 명령 파이프라인 | 🟡 Active | ![50%](https://geps.dev/progress/50) |
