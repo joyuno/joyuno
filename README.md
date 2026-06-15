@@ -38,12 +38,14 @@ AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로
 | 📚 [workbook](https://github.com/joyuno/workbook) — Claude Code Plugin · 학습자료 → YAML 퀴즈팩 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
 | 🌊 [riff](https://github.com/joyuno/riff) — AI-Native Project Loop · Claude Code Plugin | 🟡 Beta | ![80%](https://geps.dev/progress/80) |
 | 🔒 tr-box — 회사 모노레포 fork · 동기화 유지 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🔒 omnitrace — Observability Platform (RUM & APM) | 🟡 Active | ![80%](https://geps.dev/progress/80) |
 
 ### 🏁 완료
 | Project | |
 |---|---|
 | ⚖️ [ADBIAS](https://github.com/joyuno/ADBIAS) — Multi-LLM Bias 정량 분석 | ![100%](https://geps.dev/progress/100) |
 | 🎭 [Talet-project](https://github.com/Talet-project) — iOS · BE · AI 풀스택 (org) | ![100%](https://geps.dev/progress/100) |
+| 🧩 [codefill](https://github.com/joyuno/codefill) — LLM 기반 코드 보완 실험 | ![100%](https://geps.dev/progress/100) |
 
 ---
 
