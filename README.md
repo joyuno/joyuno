@@ -40,6 +40,8 @@ AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로
 | 🔒 tr-box — 로그프레소 연동 소명처리시스템 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
 | 🔒 omnitrace — Observability Platform (RUM & APM) | 🟡 Active | ![70%](https://geps.dev/progress/70) |
 | 🔒 saju-oyeon — 사주 소개팅 앱 「오연(五缘)」 · FastAPI + Flutter | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🔒 bit-scalp — 알트코인 퀀트 스캘핑 봇 · regime별 백테스트 전략 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🔒 ficeptterminal — Fincept Terminal 개조 · DCA·콜백 종목 스크리너 | 🟡 Active | ![60%](https://geps.dev/progress/60) |
 
 ### 🏁 완료
 | Project | |
