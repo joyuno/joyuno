@@ -30,12 +30,20 @@ AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로
 
 | Project | Status | Progress |
 |---|---|---:|
-| 📰 [ai-tech-digest](https://github.com/joyuno/ai-tech-digest) — daily AI 트렌드 자동 수집·요약·발행 | 🟢 Live | ![85%](https://geps.dev/progress/85) |
-| 📝 [Dev Blog](https://joyuno.github.io) — 매일 자동 발행되는 회고 일지 | 🟢 Live | ![95%](https://geps.dev/progress/95) |
-| 🌊 [riff](https://github.com/joyuno/riff) — AI-Native Project Loop · Claude Code Plugin | 🟡 Beta | ![60%](https://geps.dev/progress/60) |
-| ⚖️ [ADBIAS](https://github.com/joyuno/ADBIAS) — Multi-LLM Bias 정량 분석 | 🟢 Stable | ![90%](https://geps.dev/progress/90) |
-| 🎮 [studyandgame](https://github.com/joyuno/studyandgame) — 방치형 학습 퀴즈 게임 (Electron + PixiJS) | 🟡 WIP | ![45%](https://geps.dev/progress/45) |
-| 💳 [haedok](https://github.com/joyuno/haedok) — 구독 ROI 분석·최적화 웹앱 | 🟡 Refining | ![55%](https://geps.dev/progress/55) |
+| 📰 [ai-tech-digest](https://github.com/joyuno/ai-tech-digest) — daily AI 트렌드 자동 수집·요약·발행 | 🟢 Live | ![80%](https://geps.dev/progress/80) |
+| 📝 [Dev Blog](https://joyuno.github.io) — 매일 자동 발행되는 회고 일지 | 🟢 Live | ![80%](https://geps.dev/progress/80) |
+| 🔒 hermes_with_claude_code — Hermes Agent sidecar + MCP peer architecture (Fable 5) | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🔒 home_assistant — Voice PE → Home Assistant → Claude Code 음성 명령 파이프라인 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🎮 [studyandgame-godot](https://github.com/joyuno/studyandgame-godot) — 방치형 학습 게임 Godot 4 포팅 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 📚 [workbook](https://github.com/joyuno/workbook) — Claude Code Plugin · 학습자료 → YAML 퀴즈팩 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+| 🌊 [riff](https://github.com/joyuno/riff) — AI-Native Project Loop · Claude Code Plugin | 🟡 Beta | ![80%](https://geps.dev/progress/80) |
+| 🔒 tr-box — 회사 모노레포 fork · 동기화 유지 | 🟡 Active | ![80%](https://geps.dev/progress/80) |
+
+### 🏁 완료
+| Project | |
+|---|---|
+| ⚖️ [ADBIAS](https://github.com/joyuno/ADBIAS) — Multi-LLM Bias 정량 분석 | ![100%](https://geps.dev/progress/100) |
+| 🎭 [Talet-project](https://github.com/Talet-project) — iOS · BE · AI 풀스택 (org) | ![100%](https://geps.dev/progress/100) |
 
 ---
 
