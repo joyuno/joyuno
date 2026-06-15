@@ -5,7 +5,7 @@
 <h2>Yunho Jang · 장윤호</h2>
 
 <p>
-  <b>AI Engineer · AI-Native Tools Builder</b><br/>
+  <b>Software Engineer · AI Engineer </b><br/>
   <sub>LLM 워크플로 자동화 · 매일 발행되는 dev-blog · weekly AI/ML 논문 다이제스트</sub>
 </p>
 
