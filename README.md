@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로토타이핑합니다. frontier 모델 조합 workflow, context 엔지니어링을 활용한 subagent 기반 workflow, 매일 돌아가는 작은 자동화들이 모여 의미있는 가치가 될때 재미를 느낍니다!
+AI 엔지니어로 **플랫폼 개발·자동화 시스템**을 빠르게 프로토타이핑합니다. 그 외에도 Frontier 모델 조합 Workflow, Context 엔지니어링을 활용한 subagent 기반 Workflow, 매일 돌아가는 작은 자동화들이 모여 의미있는 가치가 될때 재미를 느낍니다!
 
 🎯 **관심 분야** — AI Agents · LLM Workflows · Quantitative Trading · Dev Tooling
 🌱 **요즘은** — Oyeon(사주 소개팅 어플), Omnitrace(Observability Platform (RUM & APM)), riff(비개발자를 위한 개발 자동화 플러그인)
